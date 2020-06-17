@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "260069077016",
+    "firebase_url": "https://push-notification-76e68.firebaseio.com",
+    "project_id": "push-notification-76e68",
+    "storage_bucket": "push-notification-76e68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260069077016:android:280c127563621de169136d",
+        "android_client_info": {
+          "package_name": "id.irsyad.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260069077016-2k2h8lp3f42iuvugd7mnqmfkbaj337al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBQyuGpERdv4OZ8kzmRCDqZtLkic-LIAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260069077016-2k2h8lp3f42iuvugd7mnqmfkbaj337al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
